@@ -6,6 +6,11 @@
 
 @import url("./categories.css");
 
+@import url("./latest.css");
+
+@import url("./footer.css");
+
+
 :root{
     --light-green: #82ff9eff;
     --celadon: #a9fbc3ff;
